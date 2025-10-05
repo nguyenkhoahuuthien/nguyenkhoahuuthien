@@ -1,9 +1,9 @@
 <!-- 🌟 ULTIMATE GITHUB PROFILE README (3D + Animation + Stats + Projects) -->
 <!-- 🧡 Theme: Warm Light (#fff6e7, #ff9f1c) -->
 
-<!-- 🪩 3D Animated Header Banner -->
+<!-- 🌊 Animated Wave Header -->
 <p align="center">
-  <img src="📌https://raw.githubusercontent.com/nguyenkhoahuuthien/profile-assets/main/3d-banner.gif" alt="3D Animated Developer Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff9f1c&height=120&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontColor=fff6e7&animation=fadeIn" />
 </p>
 
 <!-- ✨ Animated Typing Introduction -->

@@ -1,16 +1,85 @@
-## Hi there 👋
+<!-- 🌟 ULTIMATE GITHUB PROFILE README (3D + Animation + Stats + Projects) -->
+<!-- 🧡 Theme: Warm Light (#fff6e7, #ff9f1c) -->
 
-<!--
-**nguyenkhoahuuthien/nguyenkhoahuuthien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 🪩 3D Animated Header Banner -->
+<p align="center">
+  <img src="📌https://raw.githubusercontent.com/nguyenkhoahuuthien/profile-assets/main/3d-banner.gif" alt="3D Animated Developer Banner" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+<!-- ✨ Animated Typing Introduction -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=FF9F1C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nguyen+Khoa+Huu+Thien;Front-End+Developer;Creative+UI%2FUX+Designer;Coding+with+Passion+%26+Purpose" alt="Typing Animation" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 About Me
+
+- 🎓 **FPT Polytechnic Student**
+- 💻 Passionate about **Front-End Web Development**
+- 🌱 Learning **Next.js**, **Framer Motion**, and **3D Animation**
+- 🎨 Love creating **smooth interactive experiences**
+- ☕ “Calm mind, creative code.”
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+| 🌐 Preview | 🚀 Description | 🔗 Links |
+|-------------|----------------|----------|
+| <img src="📌project1_preview.gif" width="280" style="border-radius:15px;box-shadow:0 0 10px rgba(255,159,28,0.5);"> | **E-Commerce Platform**<br>Next.js + MongoDB + Tailwind | [🔗 GitHub](#) · [💻 Live Demo](#) |
+| <img src="📌project2_preview.gif" width="280" style="border-radius:15px;box-shadow:0 0 10px rgba(255,159,28,0.5);"> | **Weather Dashboard**<br>React + OpenWeather API | [🔗 GitHub](#) · [💻 Live Demo](#) |
+| <img src="📌project3_preview.gif" width="280" style="border-radius:15px;box-shadow:0 0 10px rgba(255,159,28,0.5);"> | **Portfolio Site**<br>Next.js + Framer Motion | [🔗 GitHub](#) · [💻 Live Demo](#) |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,nodejs,mongodb,git,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nguyenkhoahuuthien&show_icons=true&bg_color=fff6e7&title_color=ff9f1c&icon_color=ff9f1c&text_color=3d3d3d" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=nguyenkhoahuuthien&theme=default&background=fff6e7&ring=ff9f1c&fire=ff9f1c&currStreakLabel=ff9f1c" />
+
+</div>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenkhoahuuthien&layout=compact&theme=default&bg_color=fff6e7&title_color=ff9f1c" />
+</p>
+
+---
+
+<!-- 🌊 Smooth Animated SVG Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" alt="animated divider"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:📌youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/📌yourlinkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/nguyenkhoahuuthien" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://📌yourportfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ff9f1c?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- 🧡 Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff9f1c&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=25&fontColor=fff6e7&animation=fadeIn" />
+</p>

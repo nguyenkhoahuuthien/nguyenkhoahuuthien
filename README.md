@@ -11,20 +11,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=FF9F1C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nguyen+Khoa+Huu+Thien;Front-End+Developer;Creative+UI%2FUX+Designer;Coding+with+Passion+%26+Purpose" alt="Typing Animation" />
 </p>
 
----
-
 ## 👋 About Me
-
 - 🎓 **FPT Polytechnic Student**
 - 💻 Passionate about **Front-End Web Development**
 - 🌱 Learning **Next.js**, **Framer Motion**, and **3D Animation**
 - 🎨 Love creating **smooth interactive experiences**
 - ☕ “Calm mind, creative code.”
 
----
-
 ## 💼 Featured Projects
-
 <div align="center">
 
 | 🌐 Preview | 🚀 Description | 🔗 Links |
@@ -35,18 +29,12 @@
 
 </div>
 
----
-
 ## 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,nodejs,mongodb,git,vscode" />
 </p>
 
----
-
 ## 📊 GitHub Analytics
-
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nguyenkhoahuuthien&show_icons=true&bg_color=fff6e7&title_color=ff9f1c&icon_color=ff9f1c&text_color=3d3d3d" />
@@ -59,25 +47,17 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenkhoahuuthien&layout=compact&theme=default&bg_color=fff6e7&title_color=ff9f1c" />
 </p>
 
----
-
-<!-- 🌊 Smooth Animated SVG Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" alt="animated divider"/>
 </p>
 
----
-
 ## 🌐 Connect with Me
-
 <p align="center">
   <a href="mailto:📌youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/📌yourlinkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/nguyenkhoahuuthien" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://📌yourportfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ff9f1c?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
-
----
 
 <!-- 🧡 Animated Footer -->
 <p align="center">

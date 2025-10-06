@@ -43,32 +43,29 @@
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics Dashboard
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
+<div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenkhoahuuthien&show_icons=true&bg_color=fff6e7&title_color=ff9f1c&icon_color=ff9f1c&text_color=3d3d3d" width="47%" alt="GitHub Stats"/>
+<!-- 🟦 Tổng quan -->
+<img src="https://github-readme-stats.vercel.app/api?username=nguyenkhoahuuthien&show_icons=true&theme=default&bg_color=fff6e7&title_color=ff9f1c&icon_color=ff9f1c&text_color=3d3d3d" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nguyenkhoahuuthien&theme=default&background=fff6e7&ring=ff9f1c&fire=ff9f1c&currStreakLabel=ff9f1c" width="48%" alt="GitHub Streak"/>
 
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nguyenkhoahuuthien&theme=default&background=fff6e7&ring=ff9f1c&fire=ff9f1c&currStreakLabel=ff9f1c" width="47%" alt="GitHub Streak"/>
+<!-- 🟧 Biểu đồ tròn: Tỷ lệ ngôn ngữ -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenkhoahuuthien&layout=pie&theme=default&bg_color=fff6e7&title_color=ff9f1c" width="60%" alt="Language Pie Chart"/>
+
+<!-- 🟩 Biểu đồ đường: Lịch sử hoạt động -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenkhoahuuthien&theme=minimal&bg_color=fff6e7&color=ff9f1c&line=ff9f1c&point=3d3d3d" width="95%" alt="Contribution Graph"/>
+
+<!-- 🟪 Biểu đồ cột: Tổng hợp dữ liệu -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nguyenkhoahuuthien&theme=default&utcOffset=7" width="45%" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nguyenkhoahuuthien&theme=default" width="45%" alt="Repo per Language"/>
+
+<!-- 🏆 Thành tựu -->
+<img src="https://github-profile-trophy.vercel.app/?username=nguyenkhoahuuthien&theme=flat&no-frame=true&column=6&margin-w=10&margin-h=10&title_color=ff9f1c&text_color=3d3d3d&bg_color=fff6e7" width="95%" alt="GitHub Trophies"/>
 
 </div>
 
-<!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenkhoahuuthien&layout=compact&theme=default&bg_color=fff6e7&title_color=ff9f1c" width="60%" alt="Top Languages"/>
-</p>
-
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenkhoahuuthien&theme=minimal&bg_color=fff6e7&color=ff9f1c&line=ff9f1c&point=3d3d3d" width="95%" alt="Contribution Graph"/>
-</p>
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nguyenkhoahuuthien&theme=flat&column=6&margin-w=10&margin-h=10&no-frame=true&title_color=ff9f1c&text_color=3d3d3d&bg_color=fff6e7" width="95%" alt="GitHub Trophies"/>
-</p>
 
 <br/>
 

@@ -75,7 +75,14 @@
   <a href="https://yourportfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ff9f1c?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+  <a href="https://www.facebook.com/Thienkhoahuunguyen" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://zalo.me/0392431503" target="_blank">
+    <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo Badge"/>
+  </a>
 </p>
+
 
 <br/>
 

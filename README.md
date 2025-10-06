@@ -12,11 +12,11 @@
 </p>
 
 ## 👋 About Me
-- 🎓 **FPT Polytechnic Student**
-- 💻 Passionate about **Front-End Web Development**
-- 🌱 Learning **Next.js**, **Framer Motion**, and **3D Animation**
-- 🎨 Love creating **smooth interactive experiences**
-- ☕ “Calm mind, creative code.”
+- 🎓 Currently pursuing a degree in **Front-End Web Development at FPT Polytechnic**
+- 💡 Passionate about creating **modern, responsive, and user-friendly** interfaces
+- 🧩 Interested in **React, Next.js**, and the **MERN Stack**
+- 📚 Always exploring new **UI frameworks and design trends**
+- ⚡ Fun fact: I love crafting **pixel-perfect layouts** 😄
 
 ## 💼 Featured Projects
 <div align="center">

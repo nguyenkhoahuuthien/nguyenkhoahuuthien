@@ -47,8 +47,7 @@
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
 
-  <!-- 🧭 Tổng quan -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenkhoahuuthien&theme=radical" alt="GitHub Overview" width="100%" />
+
 
   <!-- 🔹 Hàng đầu tiên: Stats + Top Languages by Repo -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 5px;">
@@ -62,7 +61,8 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nguyenkhoahuuthien&theme=radical" alt="Top Languages by Commit" width="35%" />
   </div>
 
-  <!-- 🔹 Chuỗi hoạt động -->
+  <!-- 🧭 Tổng quan -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenkhoahuuthien&theme=radical" alt="GitHub Overview" width="100%" />
 
 
 </div>

@@ -21,7 +21,6 @@
 - ⚡ Fun fact: I love crafting **pixel-perfect layouts** 😄
 
 <br/>
-<br/>
 
 ## 💼 Featured Projects
 
@@ -36,14 +35,12 @@
 </div>
 
 <br/>
-<br/>
 
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,nodejs,mongodb,git,vscode" width="90%" alt="Tech Stack"/>
 </p>
 
-<br/>
 <br/>
 
 ## 📊 GitHub Analytics
@@ -63,7 +60,6 @@
 </p>
 
 <br/>
-<br/>
 
 ## 🌐 Connect with Me
 <p align="center">
@@ -81,7 +77,6 @@
   </a>
 </p>
 
-<br/>
 <br/>
 
 <!-- 🧡 Animated Footer -->

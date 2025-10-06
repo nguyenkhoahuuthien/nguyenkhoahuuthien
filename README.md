@@ -63,7 +63,7 @@
   </div>
 
   <!-- 🔹 Chuỗi hoạt động -->
-  <img src="https://streak-stats.demolab.com?user=nguyenkhoahuuthien&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D" width="100%" alt="GitHub Streak" />
+
 
 </div>
 

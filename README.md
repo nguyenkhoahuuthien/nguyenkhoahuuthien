@@ -43,26 +43,27 @@
 
 <br/>
 
-## 📊 GitHub Analytics Dashboard
+## 📊 GitHub Analytics
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
 
-<!-- 🟦 Tổng quan -->
-<img src="https://github-readme-stats.vercel.app/api?username=nguyenkhoahuuthien&show_icons=true&theme=default&bg_color=fff6e7&title_color=ff9f1c&icon_color=ff9f1c&text_color=3d3d3d" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nguyenkhoahuuthien&theme=default&background=fff6e7&ring=ff9f1c&fire=ff9f1c&currStreakLabel=ff9f1c" width="48%" alt="GitHub Streak"/>
+<!-- 🧭 Tổng quan -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenkhoahuuthien&theme=radical" alt="GitHub Overview" width="80%" />
 
-<!-- 🟧 Biểu đồ tròn: Tỷ lệ ngôn ngữ -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenkhoahuuthien&layout=pie&theme=default&bg_color=fff6e7&title_color=ff9f1c" width="60%" alt="Language Pie Chart"/>
+<!-- 🔹 Hàng đầu tiên: ngôn ngữ -->
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nguyenkhoahuuthien&theme=radical" alt="Top Languages by Repo" width="38%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nguyenkhoahuuthien&theme=radical" alt="Top Languages by Commit" width="38%" />
+</div>
 
-<!-- 🟩 Biểu đồ đường: Lịch sử hoạt động -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenkhoahuuthien&theme=minimal&bg_color=fff6e7&color=ff9f1c&line=ff9f1c&point=3d3d3d" width="95%" alt="Contribution Graph"/>
+<!-- 🔹 Hàng thứ hai: thống kê & thời gian -->
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyenkhoahuuthien&theme=radical" alt="GitHub Stats" width="38%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nguyenkhoahuuthien&theme=radical&utcOffset=7" alt="Commits per Hour" width="38%" />
+</div>
 
-<!-- 🟪 Biểu đồ cột: Tổng hợp dữ liệu -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nguyenkhoahuuthien&theme=default&utcOffset=7" width="45%" alt="Productive Time"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nguyenkhoahuuthien&theme=default" width="45%" alt="Repo per Language"/>
-
-<!-- 🏆 Thành tựu -->
-<img src="https://github-profile-trophy.vercel.app/?username=nguyenkhoahuuthien&theme=flat&no-frame=true&column=6&margin-w=10&margin-h=10&title_color=ff9f1c&text_color=3d3d3d&bg_color=fff6e7" width="95%" alt="GitHub Trophies"/>
+<!-- 🔹 Chuỗi hoạt động -->
+<img src="https://streak-stats.demolab.com?user=nguyenkhoahuuthien&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D" width="80%" alt="GitHub Streak" />
 
 </div>
 

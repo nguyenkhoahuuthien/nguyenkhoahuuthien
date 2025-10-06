@@ -53,7 +53,10 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="mailto:📌"huuthiennnnnnn@gmail.com" <huuthiennnnnnn@gmail.com>"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <a href="mailto:huuthiennnnnnn@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+
   <a href="[https://www.linkedin.com/in/📌yourlinkedin/](https://www.linkedin.com/in/h%E1%BB%AFu-thi%C3%AAn-7bab53331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/nguyenkhoahuuthien" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://📌yourportfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ff9f1c?style=for-the-badge&logo=vercel&logoColor=white"/></a>

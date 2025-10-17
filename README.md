@@ -28,7 +28,9 @@
 
 | 📝 Description | ⚙️ Tech Stack | 🔗 Links |
 |:----------------:|:---------------:|:----------:|
-| <p align="center">**DATN E-Commerce LUXE**</p>NextJS & NodeJs e-commerce features, user auth | HTML5 · Tailwind CSS · TypeScript · MongoDB| [🔗 GitHub](https://github.com/nguyenkhoahuuthien?tab=repositories) · [💻 Live Demo](https://luxe.name.vn/) |
+| <p align="center">**DATN E-Commerce LUXE USERS**</p>NextJS & NodeJs e-commerce features, user auth | HTML5 · Tailwind CSS · TypeScript · MongoDB| [🔗 GitHub](https://github.com/nguyenkhoahuuthien?tab=repositories) · [💻 Live Demo](https://luxe.name.vn/) |
+| <p align="center">**DATN E-Commerce LUXE ADMIN**</p>NextJS & NodeJs e-commerce features, user auth | HTML5 · Tailwind CSS · TypeScript · MongoDB| [🔗 GitHub](https://github.com/nguyenkhoahuuthien?tab=repositories) · [💻 Live Demo](https://admin.luxe.name.vn/dashboard) |
+| <p align="center">**DATN E-Commerce LUXE SHIPPER**</p>NextJS & NodeJs e-commerce features, user auth | HTML5 · Tailwind CSS · TypeScript · MongoDB| [🔗 GitHub](https://github.com/nguyenkhoahuuthien?tab=repositories) · [💻 Live Demo](https://shipper.luxe.name.vn/login) |
 | <p align="center">**SusanCoffee Website**</p>React & NodeJS, e-commerce features, user auth | React · NodeJS · MongoDB · CSS | [🔗 GitHub](#) · [💻 Live Demo](#) |
 | <p align="center">**Online Quiz Website**</p>NodeJS quiz system, admin CRUD dashboard | NodeJS · JavaScript · MongoDB · HTML | [🔗 GitHub](#) · [💻 Live Demo](#) |
 

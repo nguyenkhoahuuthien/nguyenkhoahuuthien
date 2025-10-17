@@ -28,7 +28,7 @@
 
 | 📝 Description | ⚙️ Tech Stack | 🔗 Links |
 |:----------------:|:---------------:|:----------:|
-| <p align="center">**E-Commerce Website**</p>PHP & MySQL, responsive UI, admin management | HTML · CSS · JavaScript · PHP · MySQL | [🔗 GitHub](#) · [💻 Live Demo](#) |
+| <p align="center">**E-Commerce Website**</p>PHP & MySQL, responsive UI, admin management | HTML · CSS · JavaScript · PHP · MySQL | [🔗 GitHub](https://github.com/nguyenkhoahuuthien?tab=repositories) · [💻 Live Demo](#) |
 | <p align="center">**SusanCoffee Website**</p>React & NodeJS, e-commerce features, user auth | React · NodeJS · MongoDB · CSS | [🔗 GitHub](#) · [💻 Live Demo](#) |
 | <p align="center">**Online Quiz Website**</p>NodeJS quiz system, admin CRUD dashboard | NodeJS · JavaScript · MongoDB · HTML | [🔗 GitHub](#) · [💻 Live Demo](#) |
 
